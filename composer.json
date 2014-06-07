@@ -1,0 +1,5 @@
+{
+	"require": {
+		"drmabuse/yii-bootstrap-3-module": "dev-master"
+	}
+}
